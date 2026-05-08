@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="preview.png" alt="BillyBinder Preview" width="650">
+</p>
+<p align="center">
+  <img src="preview2.png" alt="BillyBinder Preview" width="650">
+</p>
 🚀 BillyGEN
 BillyGEN est une suite logicielle avancée conçue pour la génération, la simulation et la validation d'identités numériques (emails). Doté d'une interface graphique PySide6 futuriste, il offre des outils puissants pour les développeurs, les testeurs d'intrusion et les administrateurs système.
 
