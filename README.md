@@ -42,7 +42,7 @@ Tableau de Bord : Statistiques détaillées avec compteurs animés et historique
 Cloner le dépôt :
 
 Bash
-git clone https://github.com/votre-utilisateur/BillyGEN.git
+git clone https://github.com/billy770013/BillyGEN.git
 cd BillyGEN
 Installer les dépendances :
 
