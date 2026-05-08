@@ -1,16 +1,16 @@
+🚀 BillyGEN
+BillyGEN est une suite logicielle avancée conçue pour la génération, la simulation et la validation d'identités numériques (emails). Doté d'une interface graphique PySide6 futuriste, il offre des outils puissants pour les développeurs, les testeurs d'intrusion et les administrateurs système.
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/votre-pseudo/BillyBinder?color=00bfff&style=for-the-badge" alt="Release">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Security-FUD_Engine-red?style=for-the-badge" alt="Security">
+</p>
 <p align="center">
   <img src="preview.png" alt="BillyBinder Preview" width="650">
 </p>
 <p align="center">
   <img src="preview2.png" alt="BillyBinder Preview" width="650">
 </p>
-🚀 BillyGEN
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/votre-pseudo/BillyBinder?color=00bfff&style=for-the-badge" alt="Release">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Security-FUD_Engine-red?style=for-the-badge" alt="Security">
-</p>
-BillyGEN est une suite logicielle avancée conçue pour la génération, la simulation et la validation d'identités numériques (emails). Doté d'une interface graphique PySide6 futuriste, il offre des outils puissants pour les développeurs, les testeurs d'intrusion et les administrateurs système.
 
 ✨ Fonctionnalités Principales
 ⚡ Générateur Intelligent
